@@ -1,4 +1,4 @@
-# Autor: JC Vid Anj
+# Autor: JC Vid Anj.
 # Grupo: TIDS4-2
 # Fecha: 05/11/2024
 '''
